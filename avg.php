@@ -1,6 +1,6 @@
 <?php
-	funkction srednia(a,b)
+	srednia_wazona(a,b)
 	{
-		return (a+b)/2;
+		return 0.4*a+0.6b;
 	}
 ?>
